@@ -1,6 +1,5 @@
 # Foody Zone
-
-Welcome to Foody Zone, your go-to place for delicious meals! This project is a web application that allows users to search and filter through various food items, making it easier to find their desired dishes.
+This project is a web application that allows users to search and filter through various food items, making it easier to find their desired dishes.
 
 ## Features
 
